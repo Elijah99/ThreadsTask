@@ -1,0 +1,40 @@
+{
+  "lots": [
+    {
+      "id": 1,
+      "name": "first lot",
+      "startingPrice": 100.0,
+      "priceIncreaseStep": 10.0,
+      "currentPrice": {
+        "value": 100.0
+      }
+    },
+    {
+      "id":2 ,
+      "name": "second lot",
+      "startingPrice": 200.0,
+      "priceIncreaseStep": 20.0,
+      "currentPrice": {
+        "value": 200.0
+      }
+    },
+    {
+      "id":3 ,
+      "name": "third lot",
+      "startingPrice": 150.0,
+      "priceIncreaseStep": 15.0,
+      "currentPrice": {
+        "value": 150.0
+      }
+    },
+    {
+      "id": 4,
+      "name": "fourth lot",
+      "startingPrice": 1000.0,
+      "priceIncreaseStep": 100.0,
+      "currentPrice": {
+        "value": 1000.0
+      }
+    }
+  ]
+}

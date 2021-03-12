@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "id": 1,
+      "money": {
+        "value": 500.0
+      }
+    },
+    {
+      "id": 2,
+      "money": {
+        "value": 100.0
+      }
+    },
+    {
+      "id": 3,
+      "money": {
+        "value": 1.0
+      }
+    },
+    {
+      "id": 4,
+      "money": {
+        "value": 900.0
+      }
+    }
+  ]
+}
